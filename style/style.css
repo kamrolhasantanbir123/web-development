@@ -90,7 +90,7 @@ opacity: 0.7;
 
 .banner-container-3{
     width: 946px;
-    margin: 0 auto;
+    margin: 0 auto
     margin-top: 100px;
     display: flex;
 }
@@ -122,4 +122,43 @@ margin-top: 40px;
 }
 .banner-container-3 img{
     margin-left: 110px;
+}
+
+.banner-container-4{
+    width: 946px;
+    height: 230px;
+    margin: 0 auto;
+    margin-top: 100px;
+    display: flex;
+}
+.banner-container-4 h4{
+    color: rgba(13, 19, 33, 0.7);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 700;
+padding: 0px;
+}
+.banner-container-4 p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.7;
+    padding: 0px;
+    margin-top: 19px;
+}
+.banner-container-4 button{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+padding: 12px 20px 12px 20px;
+align-items: center;
+justify-content: center;
+margin-top: 40px
+}
+.banner-container-4 img{
+    
+width: 223.2px;
+height: 208.85px;
 }
