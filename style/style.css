@@ -61,3 +61,30 @@ border-radius: 8px;
 background: rgb(13, 19, 33);
 border-radius: 5px;
 }
+
+.banner-container-2{
+    width: 1200px;
+    min-height: 110px;
+    border: 2px solid red;
+    margin: 0 auto;
+    margin-top: 155px;
+    justify-content: center;
+    text-align: center;
+}
+.banner-container-2 h4{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    padding: 0px;
+    align-items: center;
+}
+.banner-container-2 p{
+    margin: 0 auto;
+    margin-top: 24px;
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+opacity: 0.7;
+}
