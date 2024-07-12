@@ -267,19 +267,20 @@ opacity: 0.7;
 }
 
 .banner-container-9{
-    width: 1200px;
-height: 462px;
+    width: 1440px;
+height: 300px;
 border: 2px solid red;
 margin: 0 auto;
 margin-top: 100px;
 display: flex;
-gap: 65px;
+gap: 20px;
 }
 .skill-1{
     border-radius: 16px;
 
 background: rgba(255, 76, 30, 0.05);
 padding: 40px;
+margin-top: 20px;
 }
 .skill-1 img{
     background: rgb(235, 235, 235);
@@ -313,4 +314,18 @@ font-size: 16px;
 font-weight: 700;
 padding: 0;
 margin-top: 24px;
+}
+.skill-2{
+    border-radius: 16px;
+
+background: rgba(0, 76, 232, 0.05);
+padding: 40px;
+margin-top: 20px;
+}
+.skill-3{
+    border-radius: 16px;
+
+background: rgba(255, 223, 0, 0.05);
+padding: 40px;
+margin-top: 20px;
 }
