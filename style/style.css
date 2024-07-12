@@ -10,7 +10,7 @@ body{
 }
 
 .banner-container-1{
-    width: 1440px;
+    max-width: 1440px;
     min-height: 652px;
     margin: 0 auto;
     margin-top: 20px;
@@ -63,7 +63,7 @@ border-radius: 5px;
 }
 
 .banner-container-2{
-    width: 1200px;
+    max-width: 1200px;
     min-height: 110px;
     margin: 0 auto;
     margin-top: 155px;
@@ -89,7 +89,7 @@ opacity: 0.7;
 }
 
 .banner-container-3{
-    width: 946px;
+    max-width: 946px;
     margin: 0 auto;
     margin-top: 100px;
     display: flex;
@@ -125,7 +125,7 @@ margin-top: 40px;
 }
 
 .banner-container-4{
-    width: 946px;
+    max-width: 946px;
     height: 230px;
     margin: 0 auto;
     margin-top: 100px;
@@ -159,20 +159,20 @@ margin-top: 40px
 }
 .banner-container-4 img{
     
-width: 223.2px;
-height: 208.85px;
+max-width: 223.2px;
+min-height: 208.85px;
 }
 .banner-container-5{
-    width: 946px;
-    height: 220px;
+    max-width: 946px;
+    min-height: 220px;
     margin: 0 auto;
     margin-top: 120px;
     display: flex;
     justify-content: center;
 }
 .banner-container-5 img{
-    width: 206.4px;
-height: 187.32px;
+    max-width: 206.4px;
+min-height: 187.32px;
 }
 .banner-container-5 h4{
     color: rgba(13, 19, 33, 0.7);
@@ -201,8 +201,8 @@ justify-content: center;
 margin-top: 40px
 }
 .banner-container-6{
-    width: 946px;
-    height: 130px;
+    max-width: 946px;
+    min-height: 130px;
 
 margin: 0 auto;
 margin-top: 200px;
@@ -228,8 +228,8 @@ opacity: 0.7;
 }
 
 .banner-container-7{
-    width: 1076px;
-height: 400px;
+    max-width: 1076px;
+min-height: 400px;
 margin: 0 auto;
 border-radius: 16px;
 
@@ -239,8 +239,8 @@ border-radius: 16px;
     
 }
 .banner-container-8{
-    width: 946px;
-    height: 130px;
+    max-width: 946px;
+    min-height: 130px;
     margin: 0 auto;
     justify-content: center;
     text-align: center;
@@ -267,8 +267,8 @@ opacity: 0.7;
 }
 
 .banner-container-9{
-    width: 1440px;
-height: 300px;
+    max-width: 1440px;
+min-height: 300px;
 margin: 0 auto;
 margin-top: 100px;
 display: flex;
@@ -294,8 +294,8 @@ padding: 0;
 margin-top: 20px;
 }
 .skill-description{
-    width: 384px;
-height: 52px;
+    max-width: 384px;
+min-height: 52px;
 color: rgb(13, 19, 33);
 font-family: Azeret Mono;
 font-size: 16px;
@@ -305,8 +305,8 @@ opacity: 0.7;
 margin-top: 8px;
 }
 .skill-anchor{
-    width: 284px;
-height: 19px;
+    max-width: 284px;
+min-height: 19px;
 color: rgb(13, 19, 33);
 font-family: Azeret Mono;
 font-size: 16px;
@@ -329,8 +329,8 @@ padding: 40px;
 margin-top: 20px;
 }
 .banner-container-10{
-    width: 1440px;
-    height: 300px;
+    max-width: 1440px;
+    min-height: 300px;
     margin: 0 auto;
     margin-top: 20px;
     padding: 64px 48px 64px 48px;
@@ -416,8 +416,8 @@ height: 100px;
     align-items: center;
 }
 .div-1{
-    width: 456px;
-height: 24px;
+    max-width: 456px;
+min-height: 24px;
 }
 .div-1{
     color: rgb(13, 19, 33);
@@ -427,6 +427,6 @@ font-weight: 600;
 padding: 0;
 }
 .div-2{
-    width: 157.01px;
-height: 36px;
+    max-width: 157.01px;
+min-height: 36px;
 }
