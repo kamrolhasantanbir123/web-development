@@ -226,3 +226,15 @@ font-size: 16px;
 font-weight: 400;
 opacity: 0.7;
 }
+
+.banner-container-7{
+    width: 1076px;
+height: 400px;
+margin: 0 auto;
+border-radius: 16px;
+
+}
+.banner-container-7 video{
+    margin-left: 200px;
+    
+}
